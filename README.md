@@ -11,12 +11,12 @@ Mg. Ing. Carlos Fontela
 - Mg. Ing. Gonzalo Damián Santos, Ayudante Primero
 - Lic. Alejandro Sasin, Ayudante Primero
 - Lic. José Pablo Suárez, Jefe de Trabajos Prácticos
-- Ing. Florencia Tristant, alumna de carrera de Ingeniería Informática
+- Ing. Florencia Tristant, Ayudante Segunda
 - Ing. Eugenio Yolis, Ayudante Primero
 
 ### Integrantes alumnos:
-Jorge Tomás Bustamante, alumno de carrera de Ingeniería Informática
-Jimena Soledad Tapia, alumna de carrera de Ingeniería Informática
+Jorge Tomás Bustamante, alumno de carrera de Ingeniería Informática, Ayudante Segundo
+Jimena Soledad Tapia, alumna de carrera de Ingeniería Informática, Ayudante Segunda
 
 ### Líneas de investigación:
 - Nuevas tendencias transversales en desarrollo de software (arquitecturas de microservicios, delivery continuo, DevOps, etc.).
