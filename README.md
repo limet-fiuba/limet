@@ -1,4 +1,31 @@
-## Welcome to GitHub Pages
+# Bienvenidos al LIMET
+## (Laboratorio de Métodos de Desarrollo y Mantenimiento de Software - Facultad de Ingeniería - UBA)
+
+### Director:
+Mg. Ing. Carlos Fontela
+
+### Integrantes docentes:
+Ing. Marcio Degiovannini, Jefe de Trabajos Prácticos
+Ing. Alejandro Molinari, Ayudante Primero
+Ing. Diego Sánchez, Ayudante Primero
+Mg. Ing. Gonzalo Damián Santos, Ayudante Primero
+Lic. Alejandro Sasin, Ayudante Primero
+Lic. José Pablo Suárez, Jefe de Trabajos Prácticos
+Ing. Florencia Tristant, alumna de carrera de Ingeniería Informática
+Ing. Eugenio Yolis, Ayudante Primero
+
+### Integrantes alumnos:
+Jorge Tomás Bustamante, alumno de carrera de Ingeniería Informática
+Jimena Soledad Tapia, alumna de carrera de Ingeniería Informática
+
+### Líneas de investigación:
+- Nuevas tendencias transversales en desarrollo de software (arquitecturas de microservicios, delivery continuo, DevOps, etc.).
+- Mantenimiento de aplicaciones legacy.
+- Especificaciones basadas en ejemplos (SBE).
+- Desarrollo de software guiado por el comportamiento (BDD).
+- Automatización de pruebas a distintos niveles y su derivación de las especificaciones de requerimientos.
+
+
 
 You can use the [editor on GitHub](https://github.com/limet-fiuba/limet/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
