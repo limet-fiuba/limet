@@ -5,14 +5,14 @@
 Mg. Ing. Carlos Fontela
 
 ### Integrantes docentes:
-Ing. Marcio Degiovannini, Jefe de Trabajos Prácticos
-Ing. Alejandro Molinari, Ayudante Primero
-Ing. Diego Sánchez, Ayudante Primero
-Mg. Ing. Gonzalo Damián Santos, Ayudante Primero
-Lic. Alejandro Sasin, Ayudante Primero
-Lic. José Pablo Suárez, Jefe de Trabajos Prácticos
-Ing. Florencia Tristant, alumna de carrera de Ingeniería Informática
-Ing. Eugenio Yolis, Ayudante Primero
+- Ing. Marcio Degiovannini, Jefe de Trabajos Prácticos
+- Ing. Alejandro Molinari, Ayudante Primero
+- Ing. Diego Sánchez, Ayudante Primero
+- Mg. Ing. Gonzalo Damián Santos, Ayudante Primero
+- Lic. Alejandro Sasin, Ayudante Primero
+- Lic. José Pablo Suárez, Jefe de Trabajos Prácticos
+- Ing. Florencia Tristant, alumna de carrera de Ingeniería Informática
+- Ing. Eugenio Yolis, Ayudante Primero
 
 ### Integrantes alumnos:
 Jorge Tomás Bustamante, alumno de carrera de Ingeniería Informática
